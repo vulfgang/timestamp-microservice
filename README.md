@@ -2,8 +2,8 @@
 
 ### Example usage:
 
-`https://test.url.doge/December%2015,%202015`  
-`https://test.url.doge/1450166400000`
+`https://timestamp-microservice-wcs.herokuapp.com/December%2015,%202015`  
+`https://timestamp-microservice-wcs.herokuapp.com/1450166400000`
 
 ### Example output:
 
