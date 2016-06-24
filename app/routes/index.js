@@ -25,4 +25,8 @@ module.exports = function (app) {
 	app.get(unix_timestamp, function(req, res) {
 		dateConverter.timestampFromUnix(req, res);
 	});
+
+	app.get('/:anything_else', function(req, res) {
+		res.json({unix: null, natural: null});
+	})
 };
