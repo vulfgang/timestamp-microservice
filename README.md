@@ -1,7 +1,5 @@
 # API Basejump: Timestamp microservice
 
-> User stories:
-
 ### Example usage:
 
 `https://test.url.doge/December%2015,%202015`  
